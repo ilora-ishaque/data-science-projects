@@ -10,12 +10,21 @@ Data science and machine learning projects
    This project predicts the math score of a student given other relevant details such as gender, test preparation, education of school    
    lunch and other test scores. A thorough exploratory data analysis is carried out, and various models are experimented with using , such     as random forest. The best model and parameters are selected. This application is used to track if a student is performing as expected 
    or if is need of intervention.
-   
-   
 
 1. [NLP Text Summarization using Huggingface](https://github.com/ilora-ishaque/NLP-text-summarization)
-   [Full details]
-2. [House Prices: Advanced Regression Techniques](https://github.com/ilora-ishaque/house-regression)
+
+   [Project GitHub](https://github.com/ilora-ishaque/NLP-text-summarization)
+   
+   Huggingface's Pegasus model is implemented for a text summurization task. Additionally, an alternative text summurization method is 
+   proposed that is more efficient. In the altenative method, the top percentage of sentence that has the highrest count of non-stop words 
+   is selected. Stop words are words that contribute little help to the meaning of a sentence e.g. the, a, are.
+
+3. [House Prices: Advanced Regression Techniques](https://github.com/ilora-ishaque/house-regression)
+
+   [Project GitHub](https://github.com/ilora-ishaque/house-regression)
+
+   A data set of house details with substantial data missing was preprocessed. The data was then used to fit a linear regression to predict 
+   house prices.
 
 
 
