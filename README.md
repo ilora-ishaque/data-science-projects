@@ -8,8 +8,7 @@ Data science and machine learning projects
    Skills: Recommender Systems (Collaborative Filtering), Python (pandas, scikit-learn, numpy)
    
    The goal of this project is to create an effective recommendation system for Santander's banking products. To achieve this, the user- 
-   item matrix are used containing the ID of consumers and the products they owned as of May 28, 2015. Then, recommendations in three different recommendation models are 
-   calculated. The models are the popularity-based model, the memory-based collaborative filtering model, and the model-based collaborative filtering model. Then all three    
+   item matrix are used containing the ID of consumers and the products they owned as of May 28, 2015. Then, recommendations in three different recommendation models are calculated. The models are the popularity-based model, the memory-based collaborative filtering model, and the model-based collaborative filtering model. Then all three    
    recommendations models are combined into the weighted hybrid recommendation system. The result are evaluated using average precision metrics.
 
 
