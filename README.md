@@ -10,9 +10,6 @@ Data science and machine learning projects
    The goal of this project is to create an effective recommendation system for Santander's banking products. To achieve this, the user- 
    item matrix are used containing the ID of consumers and the products they owned as of May 28, 2015. Then, recommendations in three different recommendation models are calculated. The models are the popularity-based model, the memory-based collaborative filtering model, and the model-based collaborative filtering model. Then all three recommendations models are combined into the weighted hybrid recommendation system. The result are evaluated using average precision metrics.
 
-
-   ![alt text](https://github.com/ilora-ishaque/data-science-projects/blob/main/images/recommender-architecture.png)
-
  2. End-to-end Student Score Prediction ->  [Project GitHub](https://github.com/ilora-ishaque/student-score-prediction)
 
    Skills: Docker, CI/CD, AWS, Data Cleaning (pandas), Data Visualization (matplotlib, seaborn), Data Analysis (scikit-learn), Optimization
@@ -21,7 +18,6 @@ Data science and machine learning projects
    lunch and other test scores. A thorough exploratory data analysis is carried out, and various models are experimented , such as random forest. The best model and parameters are selected. This application is used to track if a student is performing as expected 
    or if is need of intervention. Docker and AWS services are used to create a CI/CD pipeline.
 
-   ![alt text](https://github.com/ilora-ishaque/data-science-projects/blob/main/images/docker-port.png)
  3. NLP Text Summarization using Huggingface
 
    [Project GitHub](https://github.com/ilora-ishaque/NLP-text-summarization)
