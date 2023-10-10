@@ -3,7 +3,7 @@ Data science and machine learning projects
 
 [My Github](https://github.com/ilora-ishaque/data-science-projects)
 
-1. Reccomender system for Santander Products   [Project GitHub](https://github.com/ilora-ishaque/santander-recommender-system)
+1. Recommender system for Santander Products ->  [Project GitHub](https://github.com/ilora-ishaque/santander-recommender-system)
    
    Skills: Recommender Systems (Collaborative Filtering), Python (pandas, scikit-learn, numpy)
    
@@ -12,15 +12,15 @@ Data science and machine learning projects
    calculated. It will be the popularity-based model, the memory-based collaborative filtering model, and the model-based collaborative filtering model. Then all three recommendations 
    models will be combined into the weighted hybrid recommendation system. The result will be evaluated using average precision metrics.
 
-2. End-to-end Student Score Prediction   [Project GitHub](https://github.com/ilora-ishaque/student-score-prediction)
+2. End-to-end Student Score Prediction ->  [Project GitHub](https://github.com/ilora-ishaque/student-score-prediction)
 
-   Skills: Docker, CI/CD, AWS, Data Cleaning (pandas), Data Visualization (matplotlib, seaborn), Data Analysis (scikit-learn), optimization
+   Skills: Docker, CI/CD, AWS, Data Cleaning (pandas), Data Visualization (matplotlib, seaborn), Data Analysis (scikit-learn), Optimization
    
    This project predicts the math score of a student given other relevant details such as gender, test preparation, education of school    
    lunch and other test scores. A thorough exploratory data analysis is carried out, and various models are experimented , such as random forest. The best model and parameters are selected. This application is used to track if a student is performing as expected 
    or if is need of intervention. Docker and AWS services are used to create a CI/CD pipeline.
 
-3. [NLP Text Summarization using Huggingface](https://github.com/ilora-ishaque/NLP-text-summarization)
+3. NLP Text Summarization using Huggingface
 
    [Project GitHub](https://github.com/ilora-ishaque/NLP-text-summarization)
    
@@ -28,7 +28,7 @@ Data science and machine learning projects
    proposed that is more efficient. In the altenative method, the top percentage of sentence that has the highrest count of non-stop words 
    is selected. Stop words are words that contribute little help to the meaning of a sentence e.g. the, a, are.
 
-4. [House Prices: Advanced Regression Techniques](https://github.com/ilora-ishaque/house-regression)
+4. House Prices: Advanced Regression Techniques
 
    [Project GitHub](https://github.com/ilora-ishaque/house-regression)
 
