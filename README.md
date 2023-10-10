@@ -12,8 +12,7 @@ Data science and machine learning projects
    recommendations models are combined into the weighted hybrid recommendation system. The result are evaluated using average precision metrics.
 
 
-   ![alt text][reccom]
-   [reccom]:https://github.com/ilora-ishaque/data-science-projects/blob/main/images/recommender-architecture.png
+   ![alt text](https://github.com/ilora-ishaque/data-science-projects/blob/main/images/recommender-architecture.png)
 
 3. End-to-end Student Score Prediction ->  [Project GitHub](https://github.com/ilora-ishaque/student-score-prediction)
 
@@ -23,8 +22,7 @@ Data science and machine learning projects
    lunch and other test scores. A thorough exploratory data analysis is carried out, and various models are experimented , such as random forest. The best model and parameters are selected. This application is used to track if a student is performing as expected 
    or if is need of intervention. Docker and AWS services are used to create a CI/CD pipeline.
 
-   ![alt text][docker]
-   [docker]:https://github.com/ilora-ishaque/data-science-projects/blob/main/images/docker-port.png
+   ![alt text](https://github.com/ilora-ishaque/data-science-projects/blob/main/images/docker-port.png)
 
 5. NLP Text Summarization using Huggingface
 
