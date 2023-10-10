@@ -12,7 +12,12 @@ Data science and machine learning projects
    calculated. It will be the popularity-based model, the memory-based collaborative filtering model, and the model-based collaborative filtering model. Then all three recommendations 
    models will be combined into the weighted hybrid recommendation system. The result will be evaluated using average precision metrics.
 
-2. End-to-end Student Score Prediction ->  [Project GitHub](https://github.com/ilora-ishaque/student-score-prediction)
+
+   ![alt text][reccom]
+
+   [reccom]: "https://github.com/ilora-ishaque/data-science-projects/blob/main/images/recommender-architecture.png"
+
+3. End-to-end Student Score Prediction ->  [Project GitHub](https://github.com/ilora-ishaque/student-score-prediction)
 
    Skills: Docker, CI/CD, AWS, Data Cleaning (pandas), Data Visualization (matplotlib, seaborn), Data Analysis (scikit-learn), Optimization
    
@@ -20,7 +25,13 @@ Data science and machine learning projects
    lunch and other test scores. A thorough exploratory data analysis is carried out, and various models are experimented , such as random forest. The best model and parameters are selected. This application is used to track if a student is performing as expected 
    or if is need of intervention. Docker and AWS services are used to create a CI/CD pipeline.
 
-3. NLP Text Summarization using Huggingface
+    ![alt text][docker]
+
+   [docker]: " ![alt text][docker]
+
+   [docker]: "https://github.com/ilora-ishaque/data-science-projects/blob/main/images/docker-port.png""
+
+5. NLP Text Summarization using Huggingface
 
    [Project GitHub](https://github.com/ilora-ishaque/NLP-text-summarization)
    
@@ -28,7 +39,7 @@ Data science and machine learning projects
    proposed that is more efficient. In the altenative method, the top percentage of sentence that has the highrest count of non-stop words 
    is selected. Stop words are words that contribute little help to the meaning of a sentence e.g. the, a, are.
 
-4. House Prices: Advanced Regression Techniques
+6. House Prices: Advanced Regression Techniques
 
    [Project GitHub](https://github.com/ilora-ishaque/house-regression)
 
